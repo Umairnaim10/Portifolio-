@@ -1,4 +1,4 @@
-# Portiflio
+# Portifolio
 
 Introduction:
 
@@ -9,4 +9,4 @@ Showcase of my skills, projects, and achievements
 Links to my social media accounts and resume
 
 
-Demo:
+Demo:https://umairnaim10.github.io/Portifolio-/
